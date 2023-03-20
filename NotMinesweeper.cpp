@@ -129,7 +129,7 @@ int main() {
         {"X","X","X"}
         };
     
-    cout << "Objective is to find all the bombs in least possible attempts.\nThe Board is a 3X3 Board with first row and column being 0.\n" ;
+    cout << "Objective is to find all the bombs in least possible attempts.\nThe Board is a 3X3 Board with first row and column being 0.\nThere are atmost 3 bombs." ;
     print(sample_board,3,3);
     
     
